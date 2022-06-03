@@ -17,9 +17,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Resumen** : Este proyecto es un videojuego sobre el joven cantante Beny JR
 
 **Estilo/género:** Juego
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : 
+![beny frente](https://user-images.githubusercontent.com/106731961/171836981-833d5ba9-4eae-4d6b-97aa-e6efc50b0276.png)
 
-(insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo
 **Probado en:**   Google Chrome / MS Edge
@@ -36,28 +36,20 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Instagram
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
+El juego comienza con una introducción, la cual lleva al menu con 3 botones. El primer botón lleva a la galería de imágenes, con fotos y videos del artista. El segundo botón, lleva a los créditos, y el tercero, a los juegos. El primer juego es un quiz sobre el cantante, si lo superas, te llevará al siguiente, que consiste en esquivar notas de música y encontrar una salida. Tras tres niveles de este minujuego, llegarás al podio, donde todos de aplaudirán
 
 ### 2.2. Esquema de navegación 
 
+![IMG_7779](https://user-images.githubusercontent.com/106731961/171837959-d767f130-8c9a-4153-b7aa-5e46d3e45b72.JPG)
 
+![IMG_7780](https://user-images.githubusercontent.com/106731961/171837968-73df0d17-3fee-48b6-be6b-ddc3abc941cd.JPG)
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
+![IMG_7778](https://user-images.githubusercontent.com/106731961/171837979-f8635d7b-62ae-4190-9829-9a7fc5e70fa7.JPG)
 
 
 # 3. Metodología
@@ -68,26 +60,13 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
-
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
-
+Este  proyecto es interesante porque da a conocer a un artista, a la vez que disfrutas con el entretenimiento que te proporciona
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
-
-
+- Orientado a un público joven, que suele escuchar este tipo de música
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
@@ -103,9 +82,7 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
-
+En ocasiones, el juego de esquivar da problemas con las colisiones
 
 # 4. Conclusiones 
 
@@ -125,9 +102,9 @@ Este  proyecto es interesante porque ...
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Mariachi, Desaparece (beny Jr)    
+* Imágenes:Fotos del artista y portadas de sus singles
+* Tipografía: Arial Black, Adobe Caslon Pro
 
 **Herramientas utilizadas**
 
@@ -140,4 +117,4 @@ Este  proyecto es interesante porque ...
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2020
+junio 2022
